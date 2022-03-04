@@ -10,6 +10,7 @@ nav {
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
+	justify-content: sp;
 }
 
 .menu-options {
@@ -110,7 +111,6 @@ nav {
 	}
 	nav {
 		width: 90vw;
-		border: 2px solid red;
 	}
 	.logo-img {
 		margin-left: 3vmax;
